@@ -1,5 +1,5 @@
 {
-  "name": "inventory-management-svc",
+  "name": "springboot-yks",
   "version": "1.0.0",
   "description": "Spring Boot application",
   "main": "index.js",
